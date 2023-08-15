@@ -1,14 +1,17 @@
 # Store_Sales_Dashboard
 📊 Excited to share my Power BI dashboard project where I analyzed a Store Sales.
 
-🔍 Problem 1: Analysis of Pizza sales in the year 2015?
+Employing data analysis methods, including time series analysis, to extract valuable insights, enable accurate sales forecasting, and develop an interactive dashboard, contributing to the growth of business.
 
-🔍 Problem 2: Analyze Total Order, Total Revenue, and Total Pizza sold and show the best and worst sellers?
+🔍 Problem 1: Analysis Monthly sales of SuperStore.
 
-🔍 Problem 3: At which time are the Pizza sales are busiest .
+🔍 Problem 2: Analysis Monthly Profit of SuperStore.
 
-🔍 Problem 4: Monthly and Daily Trends
+🔍 Problem 3: Sales by Category & Region
 
-All the queries are written in PostgreSQL
+🔍 Problem 4: Forecasting the next 15 days of sales  .
 
-Here's a sneak peek into one of the visualizations from the dashboard, showcasing Pizza sales performances in 2015.
+🔍 Problem 5: Monthly and Daily Trends
+
+
+Here's a sneak peek into one of the visualizations from the dashboard, showcasing a Superstore sales performances in year 2019 & 2020.
